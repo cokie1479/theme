@@ -37,11 +37,11 @@
   --rs-medium-width: 2px;
   --rs-large-width: 2px;
   --rs-avatar-shape: 50%;
-  --rs-online-color: #30FFA1;
-  --rs-idle-color: #FF922C;
-  --rs-dnd-color: #FF2E2E;
-  --rs-offline-color: #222E3D;
-  --rs-streaming-color: #7322FF;
+  --rs-online-color: #23A55A;
+  --rs-idle-color: #F0B232;
+  --rs-dnd-color: #F23F43;
+  --rs-offline-color: #80848E;
+  --rs-streaming-color: #9C84EF;
   --rs-phone-visible: block;
 }
 
