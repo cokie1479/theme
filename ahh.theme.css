@@ -12,10 +12,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --backgroundImage: url('https://i.imgur.com/BwmOXOl.png');
-  --backgroundColor: #0d0d0d;
+  --backgroundColor: #362F45;
   --backgroundSize: cover;
   --backgroundPosition: center;
   --backgroundRepeat: no-repeat;
@@ -36,13 +38,12 @@
   --rs-large-width: 2px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #30FFA1;
-  --rs-idle-color: #FFAA1C;
+  --rs-idle-color: #FF922C;
   --rs-dnd-color: #FF2E2E;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #7B2FFF;
+  --rs-offline-color: #222E3D;
+  --rs-streaming-color: #7322FF;
   --rs-phone-visible: block;
 }
 
 /* Any custom CSS below here */
-
 
