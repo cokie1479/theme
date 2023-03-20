@@ -37,12 +37,12 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* HOME BUTTON */
   --homeImage: background: rgb(156,23,167);
-  --background: url('https://o.remove.bg/downloads/1747d209-9003-4405-a8fc-0a41ac34c168/image-removebg-preview.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
-  --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
+  --background: url('http://evilduckz.ml/~/koile5/moon.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --homeImageSize: contain;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
 
   /* BACKGROUND */
   --background: rgb(156,23,167); /* Background color */
-  --backgroundImage:url('https://uigradients.com/7b8cec00-2239-4bf7-a4fd-92fe0a8dd042'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage:url('http://evilduckz.ml/~/tvb0nw/Can%20You%20Feel%20The%20Love%20Tonight.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
